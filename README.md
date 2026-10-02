@@ -1,21 +1,20 @@
-### Hi, I'm Clairechen163 👋
+# Hi, I'm Claire 👋
 
-I build transparent, data-driven tools focused on financial markets and quantitative research.
+I build transparent, data-driven tools for financial markets and macroeconomic research, with a focus on reproducible pipelines and clearly stated assumptions.
 
-**Currently working on**
+## Projects
 
-- [**US Tech Market Monitor**](https://github.com/Clairechen163/us-tech-market-monitor) — A rules-based daily monitor for U.S. technology stocks that evaluates price, volume, trend, and breakout behavior.
+- **[US Labor, Inflation & AI](https://github.com/Clairechen163/labor-inflation-ai)** ([live app](https://labor-inflation-ai.streamlit.app)): Streamlit dashboard on FRED data tracking wages, CPI/PCE inflation, Fed policy, and young-worker unemployment, asking whether wage growth drives inflation and whether AI shows up in hiring data.
+- **[US Tech Market Monitor](https://github.com/Clairechen163/us-tech-market-monitor-2)**: rules-based daily monitor for U.S. technology stocks that evaluates price, volume, trend, and breakout behavior.
 
-**Interests**
-- Quantitative research
-- Market microstructure & volume analysis
-- Clean, reproducible data pipelines
-- Python tooling
+## Focus areas
 
-**Tech stack I use most**
-`Python` · `pandas` · `yfinance` · `GitHub Actions`
+Quantitative research · market microstructure and volume analysis · reproducible data pipelines
 
----
+## Tech
 
-Feel free to explore my repositories.  
-I'm always open to feedback and collaboration.
+Python · pandas · Plotly · Streamlit · yfinance · FRED API · GitHub Actions · pytest
+
+## Contact
+
+[Email](mailto:clairechen163@gmail.com)
