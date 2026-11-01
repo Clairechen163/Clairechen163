@@ -2,16 +2,6 @@
 
 I build transparent, data-driven tools for business decisions, from staffing and quality control to markets and macroeconomics. Each project states its assumptions, tests its claims with the right statistics, and ships with tests, CI and, where it helps, a live app.
 
-## About me
-
-MBA, The University of Hong Kong (2017), with a summer exchange at Columbia Business School. I have worked as a business analyst at Gucci and at my family's company, where I now focus on investment analysis and company optimization. I'm preparing for graduate study in data science, with the goal of becoming a machine learning engineer.
-
-## Coursework
-
-- Python for Everybody (Coursera)
-- Statistics with Python Specialization (Coursera)
-- Machine Learning (Coursera)
-
 ## Projects
 
 **Operations and machine learning**
